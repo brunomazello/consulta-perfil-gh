@@ -1,6 +1,6 @@
 {
   "name": "projeto-github",
-  "homepage": "https://brunomazello.github.io/consulta-perfil-ghgit",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
