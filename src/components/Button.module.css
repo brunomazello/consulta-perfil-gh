@@ -1,0 +1,33 @@
+
+.button__container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.button__container button {
+    margin-bottom: 20px;
+    background-color: #21262d;
+    padding: 10px 50px;
+    border: 1px solid #363b42;
+    border-radius: 5px;
+    color: #FFF;
+    cursor: pointer;
+    font-weight: bold;
+    text-align: center;
+}
+
+.button__container button:hover {
+    background-color: #30363d;
+    border-color: #8b949e;
+
+}
+
+@media only screen and (max-width: 768px) {
+
+    .button__container button {
+
+        text-align: center;
+    }
+
+}
