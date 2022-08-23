@@ -9,7 +9,7 @@
     Projeto desenvolvido para aprender conceitos de consumo de API com AXIOS.
     <br />
     <br />
-    <a href="https://brunomazello.github.io/consulta-perfil-gh/" target="_blank">Ver Demo</a>
+    <a href="https://consulta-perfil-gh.vercel.app/" target="_blank">Ver Demo</a>
     ·
     <a href="https://github.com/brunomazello/consulta-perfil-gh/issues" target="_blank">Reporte um Bug</a>
     ·
